@@ -6,4 +6,3 @@ I'm a software engineer with specialist in web development. I also very enthusia
 - :seedling: I'm currently interested in deep learning and agile development
 - :envelope: How to reach me: fadlysyah96@gmail.com 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadlytanjung&theme=dracula)
