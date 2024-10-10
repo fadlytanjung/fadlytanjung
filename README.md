@@ -8,6 +8,6 @@ I'm a software engineer with specialist in web development. I also very enthusia
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadlytanjung&label=Profile%20views&color=0e75b6&style=flat" alt="fadlytanjung" /> </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadlytanjung&show_icons=true&locale=en&layout=compact" alt="fadlytanjung" /></p> -->
+[![Fadly's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadlytanjung&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadlytanjung&show_icons=true&locale=en" alt="fadlytanjung" /></p> -->
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadlytanjung&hide=php&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
