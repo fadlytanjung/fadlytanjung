@@ -4,7 +4,7 @@ I'm a software engineer with specialist in web development. I also very enthusia
 
 - :office: I'm currently working at https://telkom.co.id
 - :seedling: I'm currently interested in deep learning and agile development
-- :envelope: How to reach me: fadlysyah96@gmail.com 
+- :envelope: How to reach me: tanjungfadly96@gmail.com 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadlytanjung&label=Profile%20views&color=0e75b6&style=flat" alt="fadlytanjung" /> </p>
 
