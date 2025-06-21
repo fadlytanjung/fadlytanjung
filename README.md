@@ -1,8 +1,8 @@
 ### Hi there :wave: :wave:
 
-I'm a software engineer with specialist in web development. I also very enthusiast in deep learning and tensorflow
+I'm a software engineer with specialist in web development. I also very enthusiast in LLM and DeepLearning.
 
-- :office: I'm currently working at https://telkom.co.id
+- :office: I'm currently working at https://www.interopera.co
 - :seedling: I'm currently interested in deep learning and agile development
 - :envelope: How to reach me: tanjungfadly96@gmail.com 
 
