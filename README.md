@@ -17,7 +17,7 @@ Currently, I’m working at [InterOpera](https://www.interopera.co) where I desi
 ---
 
 ### ⚡ GitHub Stats
-<div align="center">
+<div align="left">
   
 [![Fadly's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadlytanjung&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fadlytanjung&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
