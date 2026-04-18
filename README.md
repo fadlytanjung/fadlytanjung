@@ -47,4 +47,4 @@ Currently, I’m working at [InterOpera](https://www.interopera.co) where I desi
 ⭐ _"I love bridging web engineering and applied AI to build things that think, learn, and scale."_  
 [![LinkedIn Badge](https://img.shields.io/badge/-Fadly%20Tanjung-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/fadlytjg)](https://linkedin.com/in/fadlytjg)
 [![GitHub Badge](https://img.shields.io/badge/-@fadlytanjung-black?style=flat&logo=github&logoColor=white&link=https://github.com/fadlytanjung)](https://github.com/fadlytanjung)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ai--swe--fadly-brightgreen?style=flat&logo=vercel)](https://s.id/ai-swe-fadly)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-fjung-brightgreen?style=flat&logo=vercel)](https://fjung.vercel.app)
