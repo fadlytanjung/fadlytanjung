@@ -4,7 +4,7 @@
 🚀 **Fullstack Engineer | Agentic AI Engineer | Deep Learning Enthusiast**
 
 I’m passionate about building **scalable web applications** and **intelligent AI systems**.  
-Currently, I’m working at [InterOpera](https://www.interopera.co) where I design and deploy **autonomous AI agents** and **microservices** for financial automation.
+Currently, I’m working at [Accenture](https://accenture.com) where I design and deploy **autonomous AI agents** and **microservices** for financial automation.
 
 ---
 
