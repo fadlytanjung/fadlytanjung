@@ -40,7 +40,7 @@ Currently, I’m working at [Accenture](https://accenture.com) where I design an
 - 🧩 DeepLearning.AI — Neural Networks and Deep Learning  
 - ⚙️ Hyperparameter Tuning, Regularization & Optimization  
 - 🐍 PCAP: Programming Essentials in Python (Python Institute)  
-- 📊 Google Advanced Data Analytics  
+- 📊 Google Cloud Certified: Generative AI Leader
 
 ---
 
